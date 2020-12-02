@@ -1,0 +1,9 @@
+F:\Unity Games\Poker\Protocol\bin\Debug\Protocol.dll
+F:\Unity Games\Poker\Protocol\bin\Debug\Protocol.pdb
+F:\Unity Games\Poker\Protocol\obj\Debug\Protocol.csprojAssemblyReference.cache
+F:\Unity Games\Poker\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+F:\Unity Games\Poker\Protocol\obj\Debug\Protocol.dll
+F:\Unity Games\Poker\Protocol\obj\Debug\Protocol.pdb
+F:\Unity Games\Poker\Client\Assets\Scripts\Protocol.dll
+F:\Unity Games\Poker\Client\Assets\Scripts\Protocol.pdb
+F:\Unity Games\Poker\Client\Assets\Scripts\Protocol.dll.config
